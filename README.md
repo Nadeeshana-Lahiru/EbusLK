@@ -51,11 +51,10 @@ Whether you're a designer, developer, or stakeholder, EbusLK demonstrates the po
 ### 📸 Images of the Project
 
 #### 🔹 Design
-![Design](./Design.png)
+![Design](https://github.com/user-attachments/assets/a49c264c-be9e-40c4-bc67-48520dd913e8)
 
 #### 🔹 Prototype
-![Prototype](./Prototype.png)
-
+![Prototype](https://github.com/user-attachments/assets/93984d48-9b1c-4c40-ad10-607017add281)
 
 ### ©️ Copyright
 © 2025 Nadeeshana Lahiru Kavinda
