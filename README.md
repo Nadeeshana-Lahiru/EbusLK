@@ -49,6 +49,7 @@ With a user-centric interface, smooth navigation, and a functional booking workf
 Whether you're a designer, developer, or stakeholder, EbusLK demonstrates the power of intuitive design in solving real-world problems.
 
 ### 📸 Images of the Project
+
 #### 🔹 Design
 ![Design](./Design.png)
 
