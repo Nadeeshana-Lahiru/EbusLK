@@ -1,5 +1,5 @@
-### 📱 EbisLK – Online Ticket Booking App
-EbisLK is a fully functional and user-friendly Adobe XD prototype designed for a seamless online ticket booking experience. 
+### 📱 EbusLK – Online Ticket Booking App
+EbusLK is a fully functional and user-friendly Adobe XD prototype designed for a seamless online ticket booking experience. 
 This project focuses on enhancing user interaction and accessibility, built with modern UI/UX design principles to ensure an intuitive, efficient, and visually appealing interface.
 
 ### 🔍 Project Overview
@@ -50,10 +50,10 @@ Whether you're a designer, developer, or stakeholder, EbusLK demonstrates the po
 
 ### 📸 Images of the Project
 #### 🔹 Design
-![Home Screen](./assets/Design.png)
+![Home Screen](./Design.png)
 
 #### 🔹 Prototype
-![Seat Selection](./assets/Prototype.png)
+![Seat Selection](./Prototype.png)
 
 
 ### ©️ Copyright
