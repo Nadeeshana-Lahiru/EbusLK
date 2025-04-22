@@ -50,10 +50,10 @@ Whether you're a designer, developer, or stakeholder, EbusLK demonstrates the po
 
 ### 📸 Images of the Project
 #### 🔹 Design
-![Home Screen](./Design.png)
+![Design](./Design.png)
 
 #### 🔹 Prototype
-![Seat Selection](./Prototype.png)
+![Prototype](./Prototype.png)
 
 
 ### ©️ Copyright
