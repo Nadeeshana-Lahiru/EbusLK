@@ -35,11 +35,11 @@ This project is not just a visual design—it is a complete, interactive Adobe X
 It demonstrates how a well-thought-out user interface and user experience can significantly enhance customer satisfaction, reduce friction, and increase booking efficiency.
 
 ### 🎯 What Makes EbusLK Stand Out?
-✅ Designed for Sri Lankan users – with local context, usability, and accessibility in mind.
-✅ Smooth user journey – from browsing to booking, every step is streamlined to reduce user effort.
-✅ Scalable concept – easily extendable into a real application for buses, trains, concerts, cinemas, or any ticket-based services.
-✅ Clean and modern interface – adhering to current UI/UX standards and best practices.
-✅ Interactive Adobe XD prototype – allowing users and stakeholders to experience the full flow without writing a single line of code.
+- ✅ Designed for Sri Lankan users – with local context, usability, and accessibility in mind.
+- ✅ Smooth user journey – from browsing to booking, every step is streamlined to reduce user effort.
+- ✅ Scalable concept – easily extendable into a real application for buses, trains, concerts, cinemas, or any ticket-based services.
+- ✅ Clean and modern interface – adhering to current UI/UX standards and best practices.
+- ✅ Interactive Adobe XD prototype – allowing users and stakeholders to experience the full flow without writing a single line of code.
 
 Whether you're a developer, designer, investor, or potential collaborator, EbusLK serves as a visionary blueprint for the next generation of ticket booking platforms in Sri Lanka
 
@@ -50,10 +50,10 @@ Whether you're a designer, developer, or stakeholder, EbusLK demonstrates the po
 
 ### 📸 Images of the Project
 #### 🔹 Design
-![Home Screen](./assets/design.png)
+![Home Screen](./assets/Design.png)
 
 #### 🔹 Prototype
-![Seat Selection](./assets/prototype.png)
+![Seat Selection](./assets/Prototype.png)
 
 
 ### ©️ Copyright
